@@ -36,5 +36,5 @@ query {
 
 ### Alunos
 - Victor Padovam 
-- Marcus Vinicius RA: 580279
-- Thiago Aki RA: 568236
+- Marcus Vinicius 
+- Thiago Aki 
