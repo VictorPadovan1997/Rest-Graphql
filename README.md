@@ -34,8 +34,7 @@ query {
 <img src="https://i.ibb.co/6HDnSrw/Captura-de-Tela-2021-11-18-a-s-14-18-42.png"/>
 
 
-
-Alunos:
-Victor Padovam RA- 558461
-Marcus Vinicius RA: 580279
-Thiago Aki RA: 568236
+### Alunos
+- Victor Padovam 
+- Marcus Vinicius RA: 580279
+- Thiago Aki RA: 568236
